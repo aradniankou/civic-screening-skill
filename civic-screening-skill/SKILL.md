@@ -39,3 +39,4 @@ Pre-screen program applications for infiltration risks. Flag suspicious patterns
 - **Advisory only.** Present evidence, not verdicts. The team knows their context better.
 - **Context matters.** People under repression have real reasons for minimal digital presence. No single factor = red flag alone.
 - **Protect data.** Report is confidential. Remind user.
+- **Data processing compliance.** Applicant data is sent to a third-party AI provider (e.g. Anthropic) for processing. Organizations using this skill must: (1) inform applicants in the application form that their data may be processed using automated tools, (2) comply with applicable data protection regulations (GDPR or equivalent), (3) ensure appropriate data processing settings on their AI provider account (e.g. disable training on user data).
