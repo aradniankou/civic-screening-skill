@@ -61,6 +61,14 @@ civic-screening-skill/
 - People in repressive environments have legitimate reasons for minimal digital presence. The methodology accounts for this.
 - Screening reports are **confidential**. Handle accordingly.
 
+## Data privacy
+
+This skill sends applicant data (names, emails, motivation texts, etc.) to a third-party AI provider for processing. Before using it, your organization must:
+
+1. **Inform applicants** — add a clause to your application form stating that submitted data may be processed using automated tools.
+2. **Comply with data protection regulations** (GDPR or equivalent in your jurisdiction).
+3. **Configure your AI provider account** — disable any settings that allow training on your data (e.g. "Improve Claude" on Anthropic consumer plans). Commercial plans (Team, Enterprise, API) offer stronger contractual guarantees.
+
 ## License
 
 MIT
