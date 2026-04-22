@@ -13,7 +13,7 @@ Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) / [Cowor
 5. Cross-references against historical application data
 6. Generates a confidential `.docx` report with flagged applicants and evidence
 
-Reports are available in English, Russian, Belarusian, and Ukrainian.
+Reports are available in English, Russian, and Belarusian.
 
 ## Setup
 
